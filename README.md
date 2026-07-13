@@ -32,6 +32,8 @@ Health authorities need to know which combinations of habits (e.g., smoking, low
 
 ### Variables: Age, Gender, Height_cm, Weight_kg, BMI, Daily_steps, Calories_intake, Hours_of_sleep, Heart_rate, Blood_pressure, Exercise_Hours_per_week, Smoker, Alcohol_Consumption_per_week, Diabetic, Heart_Disease.
 
+## Dataset: [Visit Dataset](https://github.com/PromiseCPU/Healthcare-Lifestyle-Public-Health-Analytics-/blob/6c9a9af9f64bbe614c584db6b73d6f656868669d/1.%20health_activity_data.csv)
+
 ## Process:
 >> I loaded the data and checked it was complete and correctly formatted.
 
