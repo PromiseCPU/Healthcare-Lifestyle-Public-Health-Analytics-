@@ -6,7 +6,9 @@ This project studies 1,000 individuals to see how everyday habits like sleep, ex
 
 ## Sector, Industry & Period:
 >> Sector: Public Health / Healthcare Analytics
+
 >> Industry: Preventive Medicine & Health Informatics
+
 >> Analysis Period: July 2026
 
 ## Problem Statement:
