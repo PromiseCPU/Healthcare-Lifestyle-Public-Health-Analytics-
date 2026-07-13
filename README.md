@@ -35,7 +35,7 @@ Health authorities need to know which combinations of habits (e.g., smoking, low
 ## Process:
 >> I loaded the data and checked it was complete and correctly formatted.
 
->> Produced summary statistics (averages, ranges) to understand a "typical" person
+>> Produced summary statistics (averages, minimum, maximum ...) to understand a "typical" person
 
 >> Compared sleep against heart rate to check for a relationship.
 
