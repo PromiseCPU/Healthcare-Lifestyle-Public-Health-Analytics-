@@ -59,8 +59,11 @@ Health authorities need to know which combinations of habits (e.g., smoking, low
 
 ## Visualizations:
 >> Scatter plot with trend line: Sleep vs Heart Rate
+
 >> Box plot: Alcohol consumption, Diabetic vs Non-Diabetic
+
 >> Four-panel box plots (Subplots): Age, Heart Rate, Blood Pressure, BMI by Risk Group.
+
 >> Correlation heatmaps: full population and high-risk subgroup
 
 ## Result Summary / Conclusion:
